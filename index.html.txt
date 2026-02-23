@@ -7,7 +7,10 @@ my first page
 <body>
 <h2>
 About HTML page
-</h2>
+</h2
+<p>
+Snezhnaya is a region of perpetual winter storms; Nadia states that blizzards can last for a month straight and despite being in the midst of danger, its people look up to the sky and are just happy to be alive. Tartaglia claims that people would literally freeze to death if they didn't keep moving outside. At night, the Snezhnayan sky can see a beautiful aurora of dancing light.[4]
+</p>
 </body>
 </head>
 </html>
