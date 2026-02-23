@@ -1,0 +1,13 @@
+<doctype html>
+<html>
+<head>
+<title>
+my first page
+</title>
+<body>
+<h2>
+About HTML page
+</h2>
+</body>
+</head>
+</html>
